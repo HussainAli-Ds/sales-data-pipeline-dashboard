@@ -1,0 +1,118 @@
+2026-03-21 10:12:53,009 - INFO - Processing: processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:12:53,334 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:12:53,335 - ERROR - Moved to failed: DashBoard_Store_02.xlsx
+2026-03-21 10:18:40,445 - INFO - Processing: processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:18:40,517 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:18:40,520 - ERROR - Moved to failed: DashBoard_Store_02.xlsx
+2026-03-21 10:23:19,258 - INFO - Processing: processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:23:19,532 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:23:19,534 - ERROR - Moved to failed: DashBoard_Store_02.xlsx
+2026-03-21 10:25:56,024 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:25:56,309 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:25:56,312 - ERROR - Moved to failed: DashBoard_Store_02.xlsx
+2026-03-21 10:39:03,395 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:39:03,678 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:39:03,683 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:39:03,756 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:42:16,602 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:42:16,603 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:42:16,713 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:42:16,718 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:42:16,831 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:42:17,029 - ERROR - [Errno 2] No such file or directory: 'C:\\project\\processed_files\\DashBoard_Store_02.xlsx'
+2026-03-21 10:42:17,032 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:42:17,115 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:48:25,351 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:48:25,755 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:48:25,760 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:48:25,833 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "your_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:50:48,707 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:50:49,099 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "storedb" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:50:49,104 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:50:49,175 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "storedb" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:53:38,792 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:53:39,197 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "storedb" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:53:39,202 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:53:39,271 - ERROR - (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "storedb" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-21 10:55:32,120 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:55:32,659 - ERROR - Unconsumed column names: CUSTOMER_NAME, SALE_DATE, QUANTITY, PRODUCT_NAME, SALES_AMOUNT, PRICE_PER_UNIT, CITY, STATE_ORDER, PRODUCT_CATEGORY, REGION
+2026-03-21 10:55:32,663 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:55:32,726 - ERROR - Unconsumed column names: CUSTOMER_NAME, SALE_DATE, QUANTITY, PRODUCT_NAME, SALES_AMOUNT, PRICE_PER_UNIT, CITY, STATE_ORDER, PRODUCT_CATEGORY, REGION
+2026-03-21 10:59:38,001 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:59:38,361 - ERROR - 'SALE_DATE'
+2026-03-21 10:59:38,368 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 10:59:38,400 - ERROR - 'SALE_DATE'
+2026-03-21 11:06:51,980 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 11:06:52,491 - INFO - Inserted 298 rows
+2026-03-21 11:06:52,493 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 11:06:52,599 - INFO - Inserted 298 rows
+2026-03-21 11:08:27,228 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-21 11:08:27,385 - INFO - Inserted 298 rows
+2026-03-22 02:17:12,550 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-22 02:17:14,047 - INFO - Inserted 298 rows
+2026-03-22 02:17:14,050 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-22 02:17:14,262 - INFO - Inserted 298 rows
+2026-03-22 09:04:58,643 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-22 09:04:59,358 - INFO - Inserted 298 rows
+2026-03-22 09:04:59,360 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-22 09:04:59,461 - INFO - Inserted 298 rows
+2026-03-22 09:08:05,127 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-22 09:08:05,195 - ERROR - '0                    44929
+1                    45087
+2                    45257
+3                    45153
+4                    45068
+              ...         
+495    2023-03-27 00:00:00
+496    2023-02-28 00:00:00
+497    2023-09-20 00:00:00
+498    2023-03-15 00:00:00
+499    2023-11-03 00:00:00
+Name: sale_date, Length: 500, dtype: object' is not compatible with origin='1899-12-30'; it must be numeric with a unit specified
+2026-03-22 09:08:05,199 - INFO - Processing: C:\project\processed_files\DashBoard_Store_02.xlsx
+2026-03-22 09:08:05,244 - ERROR - '0                    44929
+1                    45087
+2                    45257
+3                    45153
+4                    45068
+              ...         
+495    2023-03-27 00:00:00
+496    2023-02-28 00:00:00
+497    2023-09-20 00:00:00
+498    2023-03-15 00:00:00
+499    2023-11-03 00:00:00
+Name: sale_date, Length: 500, dtype: object' is not compatible with origin='1899-12-30'; it must be numeric with a unit specified
+2026-03-22 09:14:05,490 - INFO - Processing: C:\project\processed_files\Testing.xlsx
+2026-03-22 09:14:06,060 - INFO - Inserted 498 rows
+2026-03-22 09:14:06,063 - INFO - Processing: C:\project\processed_files\Testing.xlsx
+2026-03-22 09:14:06,221 - INFO - Inserted 498 rows
