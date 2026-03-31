@@ -23,7 +23,7 @@ footer {visibility: hidden;}
 # DATABASE CONNECTION
 # =========================
 engine = create_engine(
-    "postgresql+psycopg2://hussain:hussainali@localhost:5432/Storedb"
+    "postgresql+psycopg2://username:password@localhost:5432/database_name"
 )
 
 # =========================
