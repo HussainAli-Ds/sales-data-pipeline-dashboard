@@ -3,7 +3,7 @@ PROCESSED_FOLDER = r"C:\project\processed_files"
 FAILED_FOLDER = r"C:\project\failed_files"
 LOG_FILE = "logs/pipeline.log"
 
-DB_URI = "postgresql+psycopg2://hussain:hussainali@localhost:5432/Storedb"
+DB_URI = "postgresql+psycopg2://username:password@localhost:5432/database_name"
 
 EXPECTED_COLUMNS = [
     "Sale Date", "Customer Name", "City", "State",
